@@ -8,7 +8,7 @@
     </style>
   </head>
   <body>
-    <img src = "https://user-images.githubusercontent.com/77311629/125025719-ccc84c00-e0a0-11eb-8ef6-0fa4832ab6f7.gif"></img> 
+    <img src = "https://user-images.githubusercontent.com/77311629/125025719-ccc84c00-e0a0-11eb-8ef6-0fa4832ab6f7.gif" width ="677" height ="60" border= ="0">
     
   </body>
 </html>
